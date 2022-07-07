@@ -17,7 +17,7 @@ Rails is a web application development framework written in the Ruby language. I
 ruby 3.1.2p20
 
 
-*Configuration
+* Configuration
 - The Ruby language version 2.2.2 or newer.
 - Right version of Development Kit, if you are using Windows.
 - The RubyGems packaging system, which is installed with Ruby by default. To learn more about RubyGems, - please read the RubyGems Guides.
